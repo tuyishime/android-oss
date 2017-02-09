@@ -16,6 +16,17 @@ import java.util.Map;
 public final class Koala {
   private final @NonNull TrackingClientType client;
 
+  public static class Context {
+    // Comments
+    public static final String PROJECT = "project";
+    public static final String UPDATE = "update";
+
+    // Comment Dialog
+    public static final String PROJECT_ACTIVITY = "project_activity";
+    public static final String PROJECT_COMMENTS = "project_comments";
+    public static final String UPDATE_COMMENTS = "update_comments";
+  }
+
   public Koala(final @NonNull TrackingClientType client) {
     this.client = client;
   }
