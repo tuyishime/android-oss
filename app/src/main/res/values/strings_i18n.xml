@@ -15,7 +15,7 @@
   <string name="All_Journalism_Projects" formatted="false">All Journalism Projects</string>
   <string name="All_Music_Projects" formatted="false">All Music Projects</string>
   <string name="All_Photography_Projects" formatted="false">All Photography Projects</string>
-  <string name="All_Projects" formatted="false">All Projects</string>
+  <string name="All_Projects" formatted="false">Serivisi Zose</string>
   <string name="All_Publishing_Projects" formatted="false">All Publishing Projects</string>
   <string name="All_Tech_Projects" formatted="false">All Technology Projects</string>
   <string name="All_Theater_Projects" formatted="false">All Theater Projects</string>
@@ -181,7 +181,7 @@ from friends yet.</string>
   <string name="Popular_Projects" formatted="false">Popular Projects</string>
   <string name="Project_Cancelled" formatted="false">Project Cancelled.</string>
   <string name="Project_Suspended" formatted="false">Project Suspended.</string>
-  <string name="Projects_We_Love" formatted="false">Projects We Love</string>
+  <string name="Projects_We_Love" formatted="false">Serivisi Zikunzwe</string>
   <string name="Public_comment" formatted="false">Public comment</string>
   <string name="Pursue_daring_ideas" formatted="false">Pursue\n
 daring ideas.</string>
@@ -737,7 +737,7 @@ Please try again later.</string>
   <string name="discovery_onboarding_buttons_login" formatted="false">Login</string>
   <string name="discovery_onboarding_buttons_signup_or_login" formatted="false">Sign up or Log in</string>
   <string name="discovery_onboarding_learn_login_conjunction_or" formatted="false">or</string>
-  <string name="discovery_onboarding_title_bring_creative_projects_to_life" formatted="false">Bring creative projects to life</string>
+  <string name="discovery_onboarding_title_bring_creative_projects_to_life" formatted="false">Umwimerere wa serivisi zitandukanye</string>
   <string name="discovery_popular" formatted="false">Popular</string>
   <string name="discovery_recommended" formatted="false">Staff Picks</string>
   <string name="discovery_recommended_for_you" formatted="false">Recommended for you</string>

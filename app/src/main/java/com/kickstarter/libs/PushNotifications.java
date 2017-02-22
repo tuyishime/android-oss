@@ -170,7 +170,7 @@ public final class PushNotifications {
 
   private @NonNull NotificationCompat.Builder notificationBuilder(final @NonNull String title, final @NonNull String text) {
     return new NotificationCompat.Builder(context)
-      .setSmallIcon(R.drawable.ic_kickstarter_k)
+      .setSmallIcon(R.drawable.ic_witinda_k)
       .setColor(ContextCompat.getColor(context, R.color.green))
       .setContentText(text)
       .setContentTitle(title)

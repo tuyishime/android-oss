@@ -89,7 +89,7 @@
         <category android:name="android.intent.category.DEFAULT" />
         <category android:name="android.intent.category.BROWSABLE" />
         <data
-          android:host="www.kickstarter.com"
+          android:host="www.witinda.com"
           android:scheme="https"
           android:pathPrefix="/discover" />
       </intent-filter>
@@ -101,7 +101,7 @@
         <category android:name="android.intent.category.DEFAULT" />
         <category android:name="android.intent.category.BROWSABLE" />
         <data
-          android:host="www.kickstarter.com"
+          android:host="www.witinda.com"
           android:scheme="ksr" />
       </intent-filter>
 
@@ -246,7 +246,7 @@
         <category android:name="android.intent.category.DEFAULT" />
         <category android:name="android.intent.category.BROWSABLE" />
         <data
-          android:host="www.kickstarter.com"
+          android:host="www.witinda.com"
           android:scheme="ksr"
           android:pathPrefix="/projects/" />
       </intent-filter>
